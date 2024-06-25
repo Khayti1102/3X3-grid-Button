@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style Changer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <p id="paragraph">This is a sample paragraph.</p>
+
+    <div class="button-grid">
+        <button class="colorButton" onclick="changeColor('red')">Red</button>
+        <button class="colorButton" onclick="changeColor('green')">Green</button>
+        <button class="colorButton" onclick="changeColor('blue')">Blue</button>
+        <button class="sizeButton" onclick="changeSize(10)">10</button>
+        <button class="sizeButton" onclick="changeSize(20)">20</button>
+        <button class="sizeButton" onclick="changeSize(30)">30</button>
+        <button class="styleButton" onclick="changeFont('serif')">Serif</button>
+        <button class="styleButton" onclick="changeFont('sans-serif')">Sans-serif</button>
+        <button class="styleButton" onclick="changeFont('monospace')">Monospace</button>
+    </div>
+
+   <script src="index.js"></script>
+
+</body>
+</html>
