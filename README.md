@@ -3,7 +3,7 @@
 
 A 3X3 Grid of buttons that Dynamically transform the size, color, and Design of a Sample paragraph upon Selection.
 
-
+#### To check out the live preview 🔗[Click here](http://127.0.0.1:5500/3X3%20grid%20Button/index.html).
 
 ## Features
 
@@ -22,7 +22,7 @@ A 3X3 Grid of buttons that Dynamically transform the size, color, and Design of 
 
 
 
-#### To check out the live preview 🔗[Click here](http://127.0.0.1:5500/3X3%20grid%20Button/index.html).
+
 
 
 
